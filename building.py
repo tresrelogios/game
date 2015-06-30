@@ -1,6 +1,8 @@
+
 class Building(object):
     """Building class"""
     def __init__(self, name, level, cost, increment):
+        """Initializes the building; Does type checking"""
         self.name = name
         self.level = level
         self.cost = cost
