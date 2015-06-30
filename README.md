@@ -1,2 +1,2 @@
 # game
-hard core
+hard core (^.^)
