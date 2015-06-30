@@ -5,10 +5,13 @@ class Building(object):
     def __init__(self, name, level, cost, increment):
         """Initializes the building; Does type checking"""
 
-        if type(name) == str and name:
+        if name in BUILDING_NAMES:
             self.name = name
         else:
-            raise TypeError("Building name should be a non-empty string")
+            if type(name) != str:
+                raise TypeError("Building name should be a string")
+            else:
+                raise ValueError("Unknown building name {}".format(name))
 
         if type(level) == int:
             if level > -1:
