@@ -1,0 +1,13 @@
+Pessoal,
+
+Quando começam a trabalhar:
+$ git pull
+
+Depois de editarem/criarem ficheiros:
+$ git add <ficheiros>
+
+Para fazer commit das vossas mudanças:
+$ git commit -m '<mensagem sobre as mudanças>'
+
+Para as puxar para o github:
+$ git push
