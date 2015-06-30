@@ -1,2 +1,2 @@
 # game
-hard
+hard core
