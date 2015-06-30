@@ -1,4 +1,4 @@
-from Flask import render_template, Flask
+from flask import render_template, Flask
 
 app = Flask(__name__)
 
