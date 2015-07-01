@@ -23,7 +23,7 @@ You have two options:
 * Using the command line:
     1. You can download the command line utility here:  
        https://github.com/jdf/processing.py#processingpy
-    2. Basically, the command that you'll end up writting in a Unix-y shell will be something like this (in this case, assuming that *processing-py* folder was inside this sketch's folder and that our current working directory is inside the *processing-py* folder):  
+    2. Basically, the command that you'll end up writting in a Unix-y shell will be something like this (in this case, assuming that the *processing-py* folder was inside this sketch's folder and that our current working directory is inside the *processing-py* folder):  
     `$ ./processing-py.sh ../sketch_3relogios_Character_Attributes_python_pyde.py`
 
 * * *
