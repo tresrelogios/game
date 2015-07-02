@@ -14,7 +14,7 @@ download and extract the folder from one of these two links and execute the "*Ch
 
 
 
-# How to run this:
+# How to run this from the source:
 
 You have two options:
 
