@@ -1,9 +1,5 @@
-Character attribute customizer
-==============================
-In Processing (Java mode)
----
-
-* * *
+Character attribute customizer in Processing (Java mode)
+========================================================
 
 I was experimenting with a platform that we could hipothetically use in our game.  
   
