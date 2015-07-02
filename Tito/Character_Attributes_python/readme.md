@@ -1,11 +1,17 @@
 Character attribute customizer
 ==============================
 In Processing Python
---------------------
+---
 
 * * *
 
-I was experimenting with a platform that we could hipothetically use in our game.
+I was experimenting with a platform that we could hipothetically use in our game.  
+  
+UPDATE: If you want to see how this looks like,
+download and extract the folder from one of these two links and execute the "*Character_Attributes_python*" executable.
+* [For Windows 32bits](https://www.dropbox.com/sh/bo72rrw0o55i90c/AACO5MTiUtjn_obbnPoZUOboa?dl=0)
+* [For Linux 32bits](https://www.dropbox.com/sh/c46iql8e01ylc2k/AABPk40uF6DsDSDWxdKjrWvUa?dl=0)
+
 
 
 # How to run this:
